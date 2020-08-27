@@ -21,4 +21,4 @@
 
 ### Stats
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sabfes&show_icons=true&theme=graywhite&hide=stars,issues,contribs)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sabfes&show_icons=true&theme=graywhite&hide=stars,issues,contribs)
