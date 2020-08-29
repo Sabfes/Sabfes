@@ -1,6 +1,4 @@
-
-# Test github-readme-stats
-## Hi, I'm Bitaev Denis, a beginner FrontEnd developer.
+## Hi, I'm Denis, a beginner FrontEnd developer.
 ---
 ### Languages and Tools:
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
